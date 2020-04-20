@@ -2,6 +2,12 @@ let numbers = [];
 let random = null;
 const length = 100;
 
+/*
+Werk de functies stupidSearch en binarySearch uit.
+Tel in de functie het aantal stappen (= loop iteraties) dat nodig was om het getal te vinden.
+Laat de functie return het aantal stappen returnen.
+*/
+
 const stupidSearch = (array, value) => {
   return 0;
 }
