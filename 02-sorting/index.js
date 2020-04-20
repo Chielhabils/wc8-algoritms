@@ -31,6 +31,8 @@ const selectionSort = (unsorted) => {
 const mergeSort = (unsorted) => {
     return unsorted;
 }
+
+//Maak gebruik van een code-snippet die je online vindt en probeer deze hier te implementeren en te begrijpen.
 const quickSort = (unsorted) => {
     return unsorted;
 }
